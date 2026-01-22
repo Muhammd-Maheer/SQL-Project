@@ -50,7 +50,7 @@ Here's a breakdown of the top Data Analyst Jobs;
 - **Diverse Employers:** High-paying roles span multiple industries, from Google in tech, JP Morgan in finance, to Deloitte in consulting, showing strong demand for data talent everywhere.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within Data Analytics
 
-![Top Paying Roles](assets\Code_Generated_Image.png)
+![Top Paying Roles](assets/Code_Generated_Image.png)
 *Bar Graph visualizing the salary of the top 10 salaries for data analysts; Gemini Generated this graph for my SQL query*
 
 ### 2. Skills for Top Paying Jobs
@@ -91,7 +91,7 @@ Heres a breakdown of the most demanded skills for the top Data Analyst Jobs
 - **Python:** follows closely with a count of 7.
 - **Tableau:** is also highly sought after with a skill count of 6. Other skills like R, Snowflake, Pandas and Excel show varying degrees of demand
 
-![Skills for Top Paying Jobs](assets\top_jobs_skills.png)
+![Skills for Top Paying Jobs](assets/top_jobs_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for Data Analysts; Gemini Generated this graph*
 
 ### 3. In-Demand Skills for Data Analysts
@@ -118,7 +118,7 @@ Here's the breakdown of the most demanded skills for Data Analytics
 
 - Top visualization tools include **Tableau** (3,745) and **Power BI** (2,609), highlighting the importance of turning raw data into clear, actionable insights for decision-making.
 
-![Most Demanded Skills for Data Analytics](assets\top_jobs_skills.png)
+![Most Demanded Skills for Data Analytics](assets/top_jobs_skills.png)
 
 ### 4. Skill Based on Salary
 I wrote this query to explore the average salaries associated with different skills to show insights on which skills are the highest paying
@@ -151,7 +151,7 @@ Tools such as DataRobot, Watson, scikit-learn, Pandas, NumPy, and Jupyter indica
 - **DevOps, cloud, and collaboration tools** signal senior roles
 High salaries tied to GitLab, Bitbucket, Jenkins, Linux, GCP, Atlassian suggest top-paying jobs favor analysts who can collaborate with engineers and deploy analytics in real systems, not just dashboards.
 
-![Top Paying Skills for Data Analyst](assets\top_paying_skills.png)
+![Top Paying Skills for Data Analyst](assets/top_paying_skills.png)
 
 ### 5. Most Optimal Skills to Learn
 Combining Insights from demand and salary data, I wrote this query to showcase skills that are both high in demand and have high salaries, offering strategic focus for skill development
