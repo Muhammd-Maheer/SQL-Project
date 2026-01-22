@@ -91,7 +91,7 @@ Heres a breakdown of the most demanded skills for the top Data Analyst Jobs
 - **Python:** follows closely with a count of 7.
 - **Tableau:** is also highly sought after with a skill count of 6. Other skills like R, Snowflake, Pandas and Excel show varying degrees of demand
 
-![Skills for Top Paying Jobs](assets\top_jobs_skills.png)
+![Skills for Top Paying Jobs](assets/top_jobs_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for Data Analysts; Gemini Generated this graph*
 
 ### 3. In-Demand Skills for Data Analysts
